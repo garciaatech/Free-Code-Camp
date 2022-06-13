@@ -1,2 +1,2 @@
-# Free-Copde-Camp
+# Free-Code-Camp
 Completing freecodecamps courses
